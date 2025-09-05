@@ -1,2 +1,27 @@
-# Housing-Boston-Price-Regression
-A machine learning project that predicts house prices in Boston using Multiple Linear Regression. The model is built from scratch with NumPy and achieves a high R² score, providing valuable insights into housing market trends.
+# 🏡 Boston House Price Prediction  
+
+This project implements **Multiple Linear Regression** from scratch to predict house prices in Boston.  
+It uses the **Boston Housing dataset** and evaluates the model performance using the **R² score**.  
+
+---
+
+## 📊 Dataset  
+
+The dataset contains information about housing in Boston such as:  
+- Crime rate  
+- Number of rooms per dwelling  
+- Proximity to employment centers  
+- Property tax rate  
+- Median house price (target variable)  
+
+---
+
+## ⚙️ Features  
+
+✅ **Multiple Linear Regression** implemented manually using NumPy  
+✅ **Train/Test Split** with scikit-learn  
+✅ **Feature Scaling** using StandardScaler  
+✅ **Model Evaluation** with R² score  
+✅ **Data Visualization** (optional)  
+
+---
